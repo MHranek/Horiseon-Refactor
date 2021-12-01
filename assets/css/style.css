@@ -125,14 +125,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* Removed the footer class and changed the css references to point to the footer element instead */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
